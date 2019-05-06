@@ -1,0 +1,4 @@
+lidervec = [];
+//safe = [];
+chof = [];
+base = [];
