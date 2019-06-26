@@ -1,4 +1,5 @@
 # SupplyScript
 
-version alpha, muy complicada y no es estable.
-version 0.1 es mas sencilla, pero estable.
+version 1, muy complicada y no es estable.
+
+version 2 es mas sencilla, pero estable.
